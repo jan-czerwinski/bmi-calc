@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  background-color: #5f7cb8;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  color: white;
+}
+
+.Calculator{
+  vertical-align: top;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.History{
+  align-content: center;
+  position: relative;
+  top: 50px;
+  width: 50%;
+  align-self: center;
+}
