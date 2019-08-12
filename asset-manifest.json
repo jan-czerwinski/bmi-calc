@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bmi-calc/static/css/main.fe6255e2.chunk.css",
+    "main.js": "/bmi-calc/static/js/main.4be46c82.chunk.js",
+    "main.js.map": "/bmi-calc/static/js/main.4be46c82.chunk.js.map",
+    "runtime~main.js": "/bmi-calc/static/js/runtime~main.2dda5466.js",
+    "runtime~main.js.map": "/bmi-calc/static/js/runtime~main.2dda5466.js.map",
+    "static/js/2.406c03af.chunk.js": "/bmi-calc/static/js/2.406c03af.chunk.js",
+    "static/js/2.406c03af.chunk.js.map": "/bmi-calc/static/js/2.406c03af.chunk.js.map",
+    "index.html": "/bmi-calc/index.html",
+    "precache-manifest.415e555284883823b006a591b37e7339.js": "/bmi-calc/precache-manifest.415e555284883823b006a591b37e7339.js",
+    "service-worker.js": "/bmi-calc/service-worker.js",
+    "static/css/main.fe6255e2.chunk.css.map": "/bmi-calc/static/css/main.fe6255e2.chunk.css.map"
+  }
+}
